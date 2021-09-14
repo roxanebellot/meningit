@@ -1,13 +1,13 @@
 ## Site metadata ##
 
-title: Jekyll Actions Guide
-description: How to setup GH Pages + GH Actions for use with Jekyll 4
+title: MéninGIT - guide visuel pour utiliser git vite et bien
+description: Guide visuel en français pour utiliser git vite et bien
 
 ### Built settings ###
 
-url: "https://michaelcurrin.github.io"
-baseurl: "/jekyll-actions-quickstart"
+url: "https://roxanebellot.github.io"
+baseurl: "/meninGIT"
 
-github_username: MichaelCurrin
+github_username: roxanebellot
 
 theme: minima

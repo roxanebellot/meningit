@@ -27,8 +27,8 @@ Some people prefer to _omit_ the `--user-install` flag, but, then you need acces
 Clone the repo or your repo copied from the template.
 
 ```sh
-$ git clone git@github.com:MichaelCurrin/jekyll-actions-quickstart.git
-$ cd jekyll-actions-quickstart
+$ git clone git@github.com:roxanebellot/megingit.git
+$ cd megingit
 ```
 
 
