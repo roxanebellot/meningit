@@ -13,7 +13,7 @@ $ make build
 Or
 
 ```sh
-cd sample_site
+cd meningit_site
 JEKYLL_ENV=production bundle exec jekyll build -d ../build --trace
 ```
 

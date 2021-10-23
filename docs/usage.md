@@ -12,6 +12,6 @@ $ make serve
 Or
 
 ```sh
-cd sample_site
+cd meningit_site
 bundle exec jekyll serve --destination ../build/ --trace --livereload
 ```

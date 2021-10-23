@@ -8,15 +8,14 @@
 [![Made with Jekyll](https://img.shields.io/badge/Jekyll-4.x-blue?logo=jekyll&logoColor=white)](https://jekyllrb.com)
 [![Made with Jekyll Actions](https://img.shields.io/badge/Jekyll_Actions-2.x-blue.svg)](https://github.com/marketplace/actions/jekyll-actions)
 
-
 # Guide
 
 See this project's live demo hosted on GitHub Pages:
 
 <div align="center">
 
-[![GitHub Pages site](https://img.shields.io/badge/site-GitHub_Pages-blue?style=for-the-badge)](https://roxanebellot.github.io/)
+[![GitHub Pages site](https://img.shields.io/badge/site-GitHub_Pages-blue?style=for-the-badge)](https://roxanebellot.github.io/meninGIT)
 
 </div>
 
-Repo made using the template [jekyll-actions-quickstart by @MichaelCurrin](MichaelCurrin/jekyll-actions-quickstart/)
+Repo made using the template [jekyll-actions-quickstart by @MichaelCurrin](https://github.com/MichaelCurrin/jekyll-actions-quickstart)
