@@ -1,0 +1,110 @@
+{"0": {
+    "doc": "À propos",
+    "title": "À propos",
+    "content": "[![roxanebellot - MeninGIT](https://img.shields.io/static/v1?label=roxanebellot&message=MeninGIT&color=blue&logo=github)](https://github.com/roxanebellot/meningit) # Un problème ? Une suggestion ? [Ouvrir une issue sur GitHub](https://github.com/roxanebellot/meningit/issues/new){: .btn } # Fait avec [![MichaelCurrin - jekyll-actions-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=jekyll-actions-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/jekyll-actions-quickstart) [![stars - jekyll-actions-quickstart](https://img.shields.io/github/stars/MichaelCurrin/jekyll-actions-quickstart?style=social)](https://github.com/MichaelCurrin/jekyll-actions-quickstart) [![forks - jekyll-actions-quickstart](https://img.shields.io/github/forks/MichaelCurrin/jekyll-actions-quickstart?style=social)](https://github.com/MichaelCurrin/jekyll-actions-quickstart) [![Made with Jekyll](https://img.shields.io/badge/Jekyll-4.x-blue?logo=jekyll&logoColor=white)](https://jekyllrb.com) [![Made with Jekyll Actions](https://img.shields.io/badge/Jekyll_Actions-2.x-blue.svg)](https://github.com/marketplace/actions/jekyll-actions) This site uses [Just the Docs](https://github.com/pmarsceill/just-the-docs), a documentation theme for Jekyll. ",
+    "url": "https://roxanebellot.github.io/meningit/about.html",
+    "relUrl": "/about.html"
+  },"1": {
+    "doc": "<b>branch</b> / <b>checkout</b> <br> Créer et naviguer entre les branches",
+    "title": "<b>branch</b> / <b>checkout</b> <br> Créer et naviguer entre les branches",
+    "content": "# `branch` et `checkout` : Créer et naviguer entre les branches 0. TOC {:toc} ## Utilisation ## Comprendre ## Options ## Problèmes courants ",
+    "url": "https://roxanebellot.github.io/meningit/commands/branch-checkout.html",
+    "relUrl": "/commands/branch-checkout.html"
+  },"2": {
+    "doc": "Bloc-notes quotidien",
+    "title": "Bloc-notes quotidien",
+    "content": "# Bloc-notes quotidien ",
+    "url": "https://roxanebellot.github.io/meningit/cheat-sheet.html",
+    "relUrl": "/cheat-sheet.html"
+  },"3": {
+    "doc": "<b>cherry-pick</b> <br> Appliquer un commit",
+    "title": "<b>cherry-pick</b> <br> Appliquer un commit",
+    "content": "# `cherry-pick` : Appliquer un commit 0. TOC {:toc} ## Utilisation ## Comprendre ## Options ## Problèmes courants ",
+    "url": "https://roxanebellot.github.io/meningit/commands/cherry-pick.html",
+    "relUrl": "/commands/cherry-pick.html"
+  },"4": {
+    "doc": "<b>clone</b> / <b>init</b> <br> Créer un repo",
+    "title": "<b>clone</b> / <b>init</b> <br> Créer un repo",
+    "content": "# `clone` et `init` : Créer un repo 0. TOC {:toc} ## Utilisation ## Comprendre ## Options ## Problèmes courants ",
+    "url": "https://roxanebellot.github.io/meningit/commands/clone-init.html",
+    "relUrl": "/commands/clone-init.html"
+  },"5": {
+    "doc": "git",
+    "title": "git",
+    "content": " ",
+    "url": "https://roxanebellot.github.io/meningit/commands/commands.html",
+    "relUrl": "/commands/commands.html"
+  },"6": {
+    "doc": "<b>commit</b> / <b>add</b> <br> Valider les modifiations",
+    "title": "<b>commit</b> / <b>add</b> <br> Valider les modifiations",
+    "content": "# `commit` et `add` : Valider les modifications 0. TOC {:toc} ## Utilisation ## Comprendre ## Options ## Problèmes courants ",
+    "url": "https://roxanebellot.github.io/meningit/commands/commit-add.html",
+    "relUrl": "/commands/commit-add.html"
+  },"7": {
+    "doc": "Résoudre ses conflits",
+    "title": "Résoudre ses conflits",
+    "content": "# Résoudre ses conflits (tranquillement) 0. TOC {:toc} ## Utilisation ## Comprendre ## Options ## Problèmes courants ",
+    "url": "https://roxanebellot.github.io/meningit/conflicts.html",
+    "relUrl": "/conflicts.html"
+  },"8": {
+    "doc": "<b>diff</b>, <b>show</b>, <b>log</b> <br> Voir dans le passé",
+    "title": "<b>diff</b>, <b>show</b>, <b>log</b> <br> Voir dans le passé",
+    "content": "# `diff`, `show`, `log` : Voir dans le passé 0. TOC {:toc} ## Utilisation ## Comprendre ## Options ## Problèmes courants ",
+    "url": "https://roxanebellot.github.io/meningit/commands/diff-show-log.html",
+    "relUrl": "/commands/diff-show-log.html"
+  },"9": {
+    "doc": "<b>.gitignore</b> <br> Ignorer des fichiers",
+    "title": "<b>.gitignore</b> <br> Ignorer des fichiers",
+    "content": "# Ignorer des fichiers avec `.gitignore` 0. TOC {:toc} ## Utilisation ## Comprendre ## Options ## Problèmes courants ",
+    "url": "https://roxanebellot.github.io/meningit/commands/gitignore.html",
+    "relUrl": "/commands/gitignore.html"
+  },"10": {
+    "doc": "Lexique",
+    "title": "Lexique",
+    "content": "# Lexique Repo : un dossier versionné avec git. Voir **init/clone** Commit : une unité de changements validés. Voir **commit** Remote : Une version de votre repo quelque part sur internet, pouvant être public ou privé. Coté git, le nom le plus commun pour les remote est `origin` Voir **init/clone**, **remote** GitHub, Gitlab et bitbucket : Des hébergeurs de remote. Ils proposent d'autres fonctions, comme la gestion des problèmes, l'execution des tests à chaque push... Une partie de la gestion du repo est possible sur ces sites, d'où une confusion avec le logiciel git. Voir **init/clone**, **remote** ",
+    "url": "https://roxanebellot.github.io/meningit/lexique.html",
+    "relUrl": "/lexique.html"
+  },"11": {
+    "doc": "<b>merge</b> <br> Fusionner deux branches",
+    "title": "<b>merge</b> <br> Fusionner deux branches",
+    "content": "# `merge` : Fusionner deux branches 0. TOC {:toc} ## Utilisation ## Comprendre ## Options ## Problèmes courants ",
+    "url": "https://roxanebellot.github.io/meningit/commands/merge.html",
+    "relUrl": "/commands/merge.html"
+  },"12": {
+    "doc": "Autres commandes",
+    "title": "Autres commandes",
+    "content": "# Autres commandes 0. TOC {:toc} ## `blame` ## `fetch` ## `remote` ## `revert` ",
+    "url": "https://roxanebellot.github.io/meningit/others.html",
+    "relUrl": "/others.html"
+  },"13": {
+    "doc": "<b>pull</b> / <b>push</b> <br> Échanger avec le remote",
+    "title": "<b>pull</b> / <b>push</b> <br> Échanger avec le remote",
+    "content": "# `push` et `pull` : Échanger avec le remote 0. TOC {:toc} ## Utilisation ## Comprendre ## Options ## Problèmes courants ",
+    "url": "https://roxanebellot.github.io/meningit/commands/pull-push.html",
+    "relUrl": "/commands/pull-push.html"
+  },"14": {
+    "doc": "<b>reset</b> <br> Revenir en arrière",
+    "title": "<b>reset</b> <br> Revenir en arrière",
+    "content": "# `reset` : Revenir en arrière 0. TOC {:toc} ## Utilisation ## Comprendre ## Options ## Problèmes courants ",
+    "url": "https://roxanebellot.github.io/meningit/commands/reset.html",
+    "relUrl": "/commands/reset.html"
+  },"15": {
+    "doc": "<b>stash</b> <br> Mettre de côté des modifications",
+    "title": "<b>stash</b> <br> Mettre de côté des modifications",
+    "content": "# `merge` : Fusionner deux branches 0. TOC {:toc} ## Utilisation ## Comprendre ## Options ## Problèmes courants ",
+    "url": "https://roxanebellot.github.io/meningit/commands/stash.html",
+    "relUrl": "/commands/stash.html"
+  },"16": {
+    "doc": "<b>status</b> <br> Visualiser l'état courant",
+    "title": "<b>status</b> <br> Visualiser l'état courant",
+    "content": "# `status` : Visualiser l'état 0. TOC {:toc} ## Utilisation ```shell $ git status Sur la branche main Votre branche est à jour avec 'origin/main'. rien à valider, la copie de travail est propre ``` `status` est nos yeux : elle nous donne l'état du repo sans avoir aucun impact dessus. On voit le **nom de la branche courante** et l'état par rapport au **remote** ## Comprendre ### Branche ```shell $ git status Sur la branche main ``` La branche courante. Voir [Créer et naviguer entre les branches]({% link commands/branch-checkout.md %}){: .btn } ### Votre branche est à jour/en retard/en avance ```shell $ git status Sur la branche main Votre branche est à jour avec 'origin/main'.œ ``` Le dernier commit de la branche est le même sur la copie locale et sur la remote (`origin`). Voir [Échanger avec le remote]({% link commands/pull-push.md %}){: .btn } ### Rien à valider ```shell $ git status Sur la branche main Votre branche est à jour avec 'origin/main'. rien à valider, la copie de travail est propre ``` Aucune modification en cours les modifications sont validées et poussées, tout va bien. C'est l'état qu'on cherche à rejoindre le plus souvent possible. ### Modifications qui ne seront pas validées ```shell $ git status Modifications qui ne seront pas validées : (utilisez \"git add ...\" pour mettre à jour ce qui sera validé) (utilisez \"git restore ...\" pour annuler les modifications dans le répertoire de travail) modifié : meningit_site/index.md ``` Voir [Valider les modifiations]({% link commands/commit-add.md %}){: .btn } ### Fichiers non suivis ```shell $ git status Fichiers non suivis: (utilisez \"git add ...\" pour inclure dans ce qui sera validé) meningit_site/about.md meningit_site/base/ ``` Voir [Valider les modifiations]({% link commands/commit-add.md %}){: .btn } ### Aucune modification n'a été ajoutée à la validation ```shell $ git status aucune modification n'a été ajoutée à la validation (utilisez \"git add\" ou \"git commit -a\") ``` Voir [Valider les modifiations]({% link commands/commit-add.md %}){: .btn } ## Options ### Autre branche Par défault, on montre l'état de la branche courante, mais on peut choisir de voir l'état d'une autre branche sans s'y déplacer ```shell $ git status --branch main Sur la branche dev rien à valider, la copie de travail est propre ``` `Sur la branche` affiche toujours la branche courante, mais l'état qui suit est bien l'état de la branche demandée ! Voir [Créer et naviguer entre les branches]({% link commands/branch-checkout.md %}){: .btn } ### Affichage court ou long Par défault, l'affichage est `git status --long` un affichage long. On peut demander son inverse, l'affichage court avec `-s` ou `--short` ```shell $ git status M meningit_site/index.md ?? meningit_site/about.md ?? meningit_site/base/ ``` ## Problèmes courants ```shell $ git status fatal: ni ceci ni aucun de ses répertoires parents n'est un dépôt git : .git ``` Le dossier dans lequel la commande `status` a été lancé n'est pas un repo git. Solutions : - vérifiez le dossier dans lequel vous vous trouvez et déplacez-vous dans le dossier voulu avec `cd` - le dossier est le bon mais le repo git n'a pas été créé voir [Créer un repo]({% link commands/clone-init.md %}){: .btn } ",
+    "url": "https://roxanebellot.github.io/meningit/commands/status.html",
+    "relUrl": "/commands/status.html"
+  },"17": {
+    "doc": "Mais pourquoi ?",
+    "title": "Mais pourquoi ?",
+    "content": "{:toc} # Qu'est ce que ? **git** est un **gestionnaire de versions**, c'est à dire un # Mais pourquoi ? Les avantages de git sont multiples : - plus de dossier \"version1\", \"version2\" \"version2bis\", \"versionFinale\", \"versionFinaleFinale\"... - plus de commentaires un peu partout \"au cas où\", tout le passé est sauvegardé, dans la version actuelle on ne garde que ce qui fonctionne ! - facile de revenir en arrière et de comparer les changements - facile de travailler à plusieurs sur le même projet # Qui ? Virtuellement **tous** les projets informatiques utilisent un gestionnaire de version, git ou un de ses concurrent. Oui apprenti développeur, tu n'y coupera pas ! # Comment ? ```shell sudo apt install git ``` Dans un terminal et c'est parti ! Pour le reste, il y a ce guide. # Bon bah Bon bah c'est parti ! Si besoin, quelques ressources : - [la documentation officielle](https://git-scm.com/) ",
+    "url": "https://roxanebellot.github.io/meningit/why/why_git.html",
+    "relUrl": "/why/why_git.html"
+  }
+}
