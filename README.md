@@ -14,7 +14,7 @@ See this project's live demo hosted on GitHub Pages:
 
 <div align="center">
 
-[![GitHub Pages site](https://img.shields.io/badge/site-GitHub_Pages-blue?style=for-the-badge)](https://roxanebellot.github.io/meninGIT)
+[![GitHub Pages site](https://img.shields.io/badge/site-GitHub_Pages-blue?style=for-the-badge)](https://roxanebellot.github.io/meningit)
 
 </div>
 

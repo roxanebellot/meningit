@@ -5,8 +5,8 @@ description: Guide visuel en français pour utiliser git vite et bien
 
 ### Built settings ###
 
-url: "https://roxanebellot.github.io"
-baseurl: "/meninGIT"
+url: "http://127.0.0.1:4000"
+baseurl: "/meningit"
 
 github_username: roxanebellot
 
@@ -17,4 +17,4 @@ search_enabled: true
 # Aux links for the upper right navigation
 aux_links:
   "Problème ? Suggestion ?":
-    - "/meninGIT/about.html"
+    - "/meningit/about.html"
