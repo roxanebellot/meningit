@@ -10,4 +10,6 @@ baseurl: "/meninGIT"
 
 github_username: roxanebellot
 
-theme: minima
+theme: just-the-docs
+
+search_enabled: true
