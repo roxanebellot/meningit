@@ -33,7 +33,9 @@ $ git status
 Sur la branche main
 ```
 
-La branche courante. Voir **branch** et **checkout**
+La branche courante.
+
+Voir [Créer et naviguer entre les branches]({% link commands/branch-checkout.md %}){: .btn }
 
 ### Votre branche est à jour/en retard/en avance
 
@@ -44,7 +46,8 @@ Votre branche est à jour avec 'origin/main'.œ
 ```
 
 Le dernier commit de la branche est le même sur la copie locale et sur la remote (`origin`).
-Voir **remote**, **pull/push**
+
+Voir [Échanger avec le remote]({% link commands/pull-push.md %}){: .btn }
 
 ### Rien à valider
 
@@ -71,7 +74,7 @@ Modifications qui ne seront pas validées :
     modifié :         meningit_site/index.md
 ```
 
-Voir **add** et **commit**
+Voir [Valider les modifiations]({% link commands/commit-add.md %}){: .btn }
 
 ### Fichiers non suivis
 
@@ -83,7 +86,7 @@ Fichiers non suivis:
     meningit_site/base/
 ```
 
-voir **add**
+Voir [Valider les modifiations]({% link commands/commit-add.md %}){: .btn }
 
 ### Aucune modification n'a été ajoutée à la validation
 
@@ -92,7 +95,7 @@ $ git status
 aucune modification n'a été ajoutée à la validation (utilisez "git add" ou "git commit -a")
 ```
 
-Voir **add** et **commit**
+Voir [Valider les modifiations]({% link commands/commit-add.md %}){: .btn }
 
 ## Options
 
@@ -108,7 +111,7 @@ rien à valider, la copie de travail est propre
 
 `Sur la branche` affiche toujours la branche courante, mais l'état qui suit est bien l'état de la branche demandée !
 
-Voir aussi **checkout**
+Voir [Créer et naviguer entre les branches]({% link commands/branch-checkout.md %}){: .btn }
 
 ### Affichage court ou long
 
@@ -133,4 +136,6 @@ Le dossier dans lequel la commande `status` a été lancé n'est pas un repo git
 Solutions :
 
 - vérifiez le dossier dans lequel vous vous trouvez et déplacez-vous dans le dossier voulu avec `cd`
-- le dossier est le bon mais le repo git n'a pas été créé, voir init/clone
+- le dossier est le bon mais le repo git n'a pas été créé
+
+voir [Créer un repo]({% link commands/clone-init.md %}){: .btn }
