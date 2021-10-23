@@ -35,7 +35,7 @@ Sur la branche main
 
 La branche courante. Voir **branch** et **checkout**
 
-### Votre branche est à jour avec origin
+### Votre branche est à jour/en retard/en avance
 
 ```shell
 $ git status
