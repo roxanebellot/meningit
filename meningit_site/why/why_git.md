@@ -1,5 +1,5 @@
 ---
-title: Git ?
+title: Mais pourquoi ?
 layout: page
 nav_order: 1
 ---

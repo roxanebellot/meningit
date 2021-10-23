@@ -1,7 +1,7 @@
 ---
 layout: default
-title: status
-parent: La base
+title: <b>status</b> <br> Visualiser l'état courant
+parent: git
 nav_order: 10
 ---
 
@@ -40,7 +40,7 @@ La branche courante. Voir **branch** et **checkout**
 ```shell
 $ git status
 Sur la branche main
-Votre branche est à jour avec 'origin/main'.
+Votre branche est à jour avec 'origin/main'.œ
 ```
 
 Le dernier commit de la branche est le même sur la copie locale et sur la remote (`origin`).
